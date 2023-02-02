@@ -1,5 +1,7 @@
 # Responsive images and SVG images
 
+# Description: This webpage is demonstrating my ability to use responsive images and to create my own SVG image.
+
 Learn how to do the following:
 
 - Use the `<picture>` element to create a responsive image with art direction.
